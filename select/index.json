@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "夢をあきらめないで",
+  "base_artist": "Takako Okamura",
+  "createdAt": "2025-12-15T13:56:04.870215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢をあきらめないで 2011",
+      "artist": "岡村孝子",
+      "has_synced": true,
+      "path": "select/01_夢をあきらめないで_2011_岡村孝子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢をあきらめないで",
+      "artist": "Takako Okamura",
+      "has_synced": true,
+      "path": "select/02_夢をあきらめないで_Takako_Okamura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢をあきらめないで",
+      "artist": "Takako Okamura",
+      "has_synced": true,
+      "path": "select/03_夢をあきらめないで_Takako_Okamura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢をあきらめないで - Yume Wo Akiramenaide",
+      "artist": "Takako Okamura",
+      "has_synced": true,
+      "path": "select/04_夢をあきらめないで_-_Yume_Wo_Akiramenaide_Takako_Okamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_01_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_02_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_03_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_04_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_05_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_06_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_07_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_08_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_09_夢をあきらめないで_岡村_孝子.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "夢をあきらめないで",
+      "artist": "岡村 孝子",
+      "has_synced": false,
+      "path": "select/pl_10_夢をあきらめないで_岡村_孝子.txt"
+    }
+  ]
+}
